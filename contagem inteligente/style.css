@@ -3,4 +3,6 @@ body {
     background-color: blueviolet;
     height: auto;
     width: auto;
+    padding: 250px;
+    padding-left: 500px;
 }
